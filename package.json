@@ -1,0 +1,13 @@
+{
+  "name": "example-nodejs-app-with-docker",
+  "version": "1.0.0",
+  "description": "Node.js examples on Docker",
+  "author": "Vinoth Rajendran <vnodrajendran@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
